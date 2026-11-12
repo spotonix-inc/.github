@@ -2,7 +2,7 @@
 
 **AI can answer your business questions. Spotonix gives you answers you can defend.**
 
-Spotonix is your AI analyst. It asks when a business term is unclear, shows the plan before it queries your data, and reuses what your team clarifies.
+Spotonix is your AI analyst, built on a knowledge graph of your business. It asks when a term is unclear, shows the plan before it queries your data, and reuses what your team clarifies.
 
 | | |
 |---|---|
@@ -13,6 +13,7 @@ Spotonix is your AI analyst. It asks when a business term is unclear, shows the 
 ## Start here
 
 - [How Spotonix works](https://spotonix.com/product/how-it-works/): one question, from clarification to plan to answer evidence
+- [The Spotonix Knowledge Graph](https://spotonix.com/product/knowledge-graph/): ontology, classification and algebra, shown on one real question
 - [Before you trust an AI-generated number](https://spotonix.com/resources/ai-answer-checklist/): eight checks for any analytics tool or internal build (free, no email)
 - [Field notes](https://spotonix.com/blog/): business meaning, inspectable analysis, and evaluating AI analytics
 - [Two-week Pilot](https://spotonix.com/proof/): 10 of your recurring questions, one shared rubric
